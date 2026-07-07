@@ -14,6 +14,18 @@
 1. **Бинарный**: *hate* vs *no‑hate*
 2. **Мультиклассовый**: *ethnic*, *religious*, *sexism*, *ableism*
 
+## 🛠 Стек технологий
+
+| Компонент | Инструменты |
+|-----------|-------------|
+| Язык | Python 3.9+ |
+| Фреймворк для трансформеров | Hugging Face Transformers |
+| Глубокое обучение | PyTorch 2.1+ |
+| Классический ML | scikit-learn (Logistic Regression, TF‑IDF) |
+| Обработка текста | NLTK, pymorphy3, re, emoji |
+| Визуализация и анализ | matplotlib, seaborn, pandas, numpy |
+| Интерпретация | LIME (Local Interpretable Model-agnostic Explanations) |
+| Среда разработки | Jupyter Notebook |
 ---
 
 ## 📊 Данные
