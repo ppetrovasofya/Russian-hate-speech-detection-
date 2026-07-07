@@ -66,14 +66,3 @@
 ### Итоговая иерархическая точность
 - Baseline: **69%**
 - RuBERT: **84%** ✅
-
----
-
-## ⚡ Быстрый старт
-
-```bash
-git clone https://github.com/yourusername/hate-speech-detection-rubert.git
-cd hate-speech-detection-rubert
-pip install -r requirements.txt
-jupyter notebook "RuBERT comparison.ipynb"
-Важно: датасет не включён в репозиторий. Для воспроизведения подготовьте свой корпус согласно гайдлайнам (см. Приложение в дипломе).
